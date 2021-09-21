@@ -9,7 +9,7 @@ export default class App extends Component
     return(
       <View style={styles.container} >
         <Text>screen1</Text>
-        <TouchableOpacity style={styles.loginBtn}>
+        <TouchableOpacity style={styles.loginBtn }>
           <Text style={styles.loginText}>LOGIN</Text>
         </TouchableOpacity>
       </View>

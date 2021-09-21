@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "601090409453",
+    "project_id": "easyhostel-3414e",
+    "storage_bucket": "easyhostel-3414e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601090409453:android:4df19a2fee573398309de4",
+        "android_client_info": {
+          "package_name": "com.easyhostel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601090409453-40rk9fv04jml6pnqtmg47933cfib5lvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easyhostel",
+            "certificate_hash": "7a3016b7e932cdbd57bd1b47e24dc038049dc5bb"
+          }
+        },
+        {
+          "client_id": "601090409453-6mfcf2lggop8tsdve0c5plh63pcekbta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdcpf4K6yWOUWsAVE1rOI5NfPSQanvqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601090409453-6mfcf2lggop8tsdve0c5plh63pcekbta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
