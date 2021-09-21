@@ -8,6 +8,8 @@ function ListItem2 (props){
     var datapress={
         'title': props.item.title,
         'num': props.item.numb,
+
+        
         'imageUrl' :props.item.imageUrl,
         'rent' : props.item.rent,
         'other' : props.item.other,
