@@ -80,6 +80,7 @@ export default function Detail(props){
                        marginTop:30,
                        marginLeft:34
                    }}>
+                       
                        <View>
                            <Text style={{
                                fontWeight:"bold",
